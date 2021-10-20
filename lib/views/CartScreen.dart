@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:groom_assignment/helper/Cart.dart';
 import 'package:provider/provider.dart';
 
-import '../CartTile.dart';
+import 'CartTile.dart';
 class CartScreen extends StatefulWidget {
   @override
   _CartScreenState createState() => _CartScreenState();

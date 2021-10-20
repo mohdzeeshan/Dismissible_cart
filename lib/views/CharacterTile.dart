@@ -4,7 +4,7 @@ import 'package:groom_assignment/models/dataModel.dart';
 import 'package:provider/provider.dart';
 import 'package:transparent_image/transparent_image.dart';
 
-import 'helper/Cart.dart';
+import '../helper/Cart.dart';
 
 class CharacterTile extends StatefulWidget {
   CharacterModel character;

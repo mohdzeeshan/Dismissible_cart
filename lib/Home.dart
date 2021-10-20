@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
-import 'package:groom_assignment/LeftSwiped.dart';
+import 'file:///C:/Users/Techgeeks/AndroidStudioProjects/groom_assignment/lib/views/LeftSwiped.dart';
 import 'package:groom_assignment/helper/Cart.dart';
 import 'package:groom_assignment/models/dataModel.dart';
 import 'package:groom_assignment/views/CartScreen.dart';
 import 'package:provider/provider.dart';
 
-import 'CharacterTile.dart';
+import 'views/CharacterTile.dart';
 import 'helper/fetchApiData.dart';
 
 class Home extends StatefulWidget {

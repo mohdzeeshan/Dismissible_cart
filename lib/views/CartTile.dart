@@ -3,7 +3,7 @@ import 'package:provider/provider.dart';
 import 'package:flutter/material.dart';
 import 'package:transparent_image/transparent_image.dart';
 
-import 'helper/Cart.dart';
+import '../helper/Cart.dart';
 class CartTile extends StatelessWidget {
   Cart c = new Cart();
   CharacterModel character;
